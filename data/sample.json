@@ -1,0 +1,11 @@
+{
+  "project": "embedding-explorer",
+  "resource": "vectors",
+  "samples": [
+    {
+      "id": "em1",
+      "text": "refund policy",
+      "label": "support"
+    }
+  ]
+}
